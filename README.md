@@ -1,9 +1,7 @@
 # 🌐 Monica Brancon - Portfolio Website
 
-![Website Preview](https://yourwebsiteurl.com/screenshot.png) <!-- Optional: Add a screenshot of your homepage -->
-
 ## 🚀 Live Website
-🔗 **[Visit My Portfolio](https://yourgithubusername.github.io/)**  
+🔗 **[Visit My Portfolio](https://reneiloembrancon.github.io/)**  
 
 ## 📖 About  
 This is my personal **portfolio website** showcasing my projects, experience, and skills in **software development, frontend design, and AI/ML**.  
@@ -22,7 +20,11 @@ This is my personal **portfolio website** showcasing my projects, experience, an
 ## 📜 How to Run Locally  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/ReneiloeMBrancon/your-repo-name.git
+   git clone https://github.com/ReneiloeMBrancon/reneiloembrancon.github.io.git
+
+2. Navigate to the project folder:
+   cd your-repo-name
+3. Open index.html in your browser.
 
 🛠 Future Improvements
 - Add animations using Framer Motion
