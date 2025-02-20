@@ -254,6 +254,7 @@ ul li a:hover {
         margin: auto;
     } 
     .contact__details {
+        font-family: 'Poppins', sans-serif;
         display: flex;
         flex-direction: column;
         gap: 10px;
