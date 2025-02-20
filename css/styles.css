@@ -252,7 +252,12 @@ ul li a:hover {
     }
     .action__btns {
         margin: auto;
-    }    
+    } 
+    .contact__details {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }   
 }
 
 /* Footer Styling */
@@ -302,7 +307,14 @@ footer .social-icons a:hover {
     .image img {
         width: 60%;
     }
+    .contact__details {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+    }
 }
+
+
 
 /* Adding Animation for Smooth Fade-In */
 @keyframes fadeInUp {
