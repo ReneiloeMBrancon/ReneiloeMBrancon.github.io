@@ -27,7 +27,7 @@ body {
     flex-direction: column;
     justify-content: space-between;
     height: 100vh; */
-    background-color: #111827; /* Optional: Match Tailwind's bg-gray-900 *
+    background-color: #111827; /* Optional: Match Tailwind's bg-gray-900 */
 }
 
 /* Navbar */
